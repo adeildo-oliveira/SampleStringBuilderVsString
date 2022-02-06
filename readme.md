@@ -22,3 +22,5 @@ Intel Core i5 CPU 2.70GHz, 1 CPU, 4 logical and 4 physical cores
 | UsandoConcatenacaoDeStringComEnumerable | 245.54 μs | 5.062 μs | 14.605 μs | 908.9355 |  2,786 KB |
 |             UsandoStringBuilderComArray |  11.44 μs | 0.077 μs |  0.072 μs |   4.7455 |     15 KB |
 |  UsandoStringBuilderStringComEnumerable |  11.53 μs | 0.086 μs |  0.076 μs |   4.7455 |     15 KB |
+
+[Benchmark DotNet](https://benchmarkdotnet.org/articles/overview.html)
